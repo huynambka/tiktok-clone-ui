@@ -18,7 +18,6 @@ const publicRoutes = [
         layout: null,
     },
 ];
-
 const privateRoutes = [];
 
 export { publicRoutes, privateRoutes };
