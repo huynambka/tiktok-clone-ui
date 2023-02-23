@@ -17,6 +17,9 @@ const publicRoutes = [
         component: Upload,
         layout: null,
     },
+    {
+        path: '/@:nickname',
+    },
 ];
 const privateRoutes = [];
 
