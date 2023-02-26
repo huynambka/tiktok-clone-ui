@@ -1,0 +1,28 @@
+.
+├── public
+└── src
+    ├── apiServices
+    ├── assets
+    │   └── images
+    ├── components
+    │   ├── AccountItem
+    │   ├── Button
+    │   ├── GlobalStyles
+    │   ├── Image
+    │   ├── Layouts
+    │   │   ├── components
+    │   │   │   ├── Header
+    │   │   │   └── Search
+    │   │   └── DefaultLayout
+    │   │       └── Sidebar
+    │   └── Popper
+    │       └── Menu
+    ├── hooks
+    ├── pages
+    │   ├── Following
+    │   ├── Home
+    │   └── Upload
+    ├── routes
+    └── utils
+
+25 directories
