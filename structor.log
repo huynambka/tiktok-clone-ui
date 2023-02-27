@@ -1,7 +1,6 @@
 .
 ├── public
 └── src
-    ├── apiServices
     ├── assets
     │   └── images
     ├── components
@@ -9,20 +8,22 @@
     │   ├── Button
     │   ├── GlobalStyles
     │   ├── Image
-    │   ├── Layouts
-    │   │   ├── components
-    │   │   │   ├── Header
-    │   │   │   └── Search
-    │   │   └── DefaultLayout
-    │   │       └── Sidebar
     │   └── Popper
     │       └── Menu
+    ├── config
     ├── hooks
+    ├── layouts
+    │   ├── components
+    │   │   ├── Header
+    │   │   └── Search
+    │   └── DefaultLayout
+    │       └── Sidebar
     ├── pages
     │   ├── Following
     │   ├── Home
     │   └── Upload
     ├── routes
+    ├── services
     └── utils
 
-25 directories
+26 directories

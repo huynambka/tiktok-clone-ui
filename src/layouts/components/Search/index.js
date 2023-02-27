@@ -9,7 +9,7 @@ import classNames from 'classnames/bind';
 import { useRef } from 'react';
 import { useDebounce } from '~/hooks';
 
-import * as searchService from '~/apiServices/searchService';
+import * as searchService from '~/services/searchService';
 
 const cx = classNames.bind(styles);
 
